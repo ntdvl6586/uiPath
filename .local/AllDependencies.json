@@ -5361,15 +5361,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Vietlink PC\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "au portal",
       "projectName": "au portal",
-      "projectPath": "D:\\UI_PATH\\au portal\\.local",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\UI_PATH\\au portal\\.local"
+      "projectPath": "D:\\AuPortal\\uiPath\\.local",
+      "packagesPath": "C:\\Users\\Vietlink PC\\.nuget\\packages\\",
+      "outputPath": "D:\\AuPortal\\uiPath\\.local"
     },
     "frameworks": {
       "net461": {
@@ -5390,7 +5390,7 @@
             "version": "[21.10.5, 21.10.5]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\admin\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "D:\\UiPath\\runtime.json"
       }
     },
     "runtimes": {
@@ -5398,55 +5398,5 @@
         "#import": []
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Access to the path 'D:\\System Volume Information' is denied."
-    },
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Access to the path 'D:\\System Volume Information' is denied."
-    },
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Access to the path 'D:\\System Volume Information' is denied."
-    },
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Access to the path 'D:\\System Volume Information' is denied."
-    },
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Access to the path 'D:\\System Volume Information' is denied."
-    },
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Access to the path 'D:\\System Volume Information' is denied."
-    },
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Access to the path 'D:\\System Volume Information' is denied."
-    },
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Access to the path 'D:\\System Volume Information' is denied."
-    }
-  ]
+  }
 }
