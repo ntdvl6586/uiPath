@@ -5361,15 +5361,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Vietlink PC\\.nuget\\packages\\": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "au portal",
       "projectName": "au portal",
-      "projectPath": "D:\\AuPortal\\uiPath\\.local",
-      "packagesPath": "C:\\Users\\Vietlink PC\\.nuget\\packages\\",
-      "outputPath": "D:\\AuPortal\\uiPath\\.local"
+      "projectPath": "D:\\UI_PATH\\au portal\\.local",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "D:\\UI_PATH\\au portal\\.local"
     },
     "frameworks": {
       "net461": {
@@ -5390,7 +5390,7 @@
             "version": "[21.10.5, 21.10.5]"
           }
         },
-        "runtimeIdentifierGraphPath": "D:\\UiPath\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\admin\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {
