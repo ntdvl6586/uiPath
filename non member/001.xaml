@@ -83,7 +83,7 @@
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
             <uix:NClick ClickType="Single" DisplayName="Click" sap:VirtualizedContainerService.HintSize="334,168" sap2010:WorkflowViewState.IdRef="NClick_1" KeyModifiers="None" MouseButton="Left" Version="V1" />
-            <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="334,85.3333333333333" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Hello world&quot;]" />
+            <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="334,85.3333333333333" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Hello world 123456&quot;]" />
           </Sequence>
         </ActivityAction>
       </uix:NApplicationCard.Body>
